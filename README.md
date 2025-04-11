@@ -1,27 +1,29 @@
 # Karini AI - Frontend
 
-This is the frontend for Karini AI, built using **Next.js** and deployed on **Vercel**.
+This is the frontend for Karini AI, built using **Next.js** 
 
-## 🧠 Features
+## Features
 
 - Product catalog with search and filtering
 - Cart functionality
 - Chatbot integration
-- Connects securely to HTTPS backend API
 
-## 📦 Technologies Used
+## Technologies Used
 
 - Next.js (React)
 - CSS (custom styling)
 - Hosted on Vercel
 
-## 🔧 Environment Variables
+1. clone repo
+git clone https://github.com/Prakharjaisawal/KariniAI-frontend.git
+cd KariniAI-fronted
+
+2 Add Environment Variables
 
 Create a `.env.local` file in the root directory:
 
 ## add .enc file with variable 
 NEXT_PUBLIC_API_BASE_URL=https://3.109.32.124:9091/api
-PORT = 3000
 
 ## Run locally 
 
